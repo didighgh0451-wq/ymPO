@@ -44,6 +44,7 @@ export const ProjectDetail = ({
       exit={{ opacity: 0 }}
       transition={{ duration: 0.4, ease: "easeInOut" }}
       className="fixed inset-0 z-[5000] bg-[#0a0a0a] text-[#e5e0d5] overflow-y-auto overflow-x-hidden no-scrollbar font-['Inter','Noto_Sans_KR',sans-serif]"
+      id="project-detail-container"
     >
       {/* Close Button */}
       <motion.button
