@@ -183,7 +183,7 @@ export const projects: Project[] = [
     year: '2026',
     client: 'Indie',
     image:
-      'https://images.unsplash.com/photo-1648569825935-1c1d459cdb08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaW5lbWF0aWMlMjBwb3J0cmFpdCUyMG1vb2R5JTIwZmlsbXxlbnwxfHx8fDE3NzA3MjgwNjB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+      'public/1.png',
     videoUrl: 'https://vimeo.com/1163898030?fl=ip&fe=ec',
     aspectRatio: '21:9',
     description:
@@ -214,7 +214,7 @@ export const projects: Project[] = [
     year: '2026',
     client: 'Sony Music',
     image:
-      'https://images.unsplash.com/photo-1759720107956-1cbad755e952?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx1cmJhbiUyMHN0cmVldCUyMGRhbmNlJTIwbW92ZW1lbnR8ZW58MXx8fHwxNzcwNzI4MDYxfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+      'public/2.png',
     videoUrl: 'https://vimeo.com/1163898510?fl=ip&fe=ec',
     aspectRatio: '21:9',
     description:
