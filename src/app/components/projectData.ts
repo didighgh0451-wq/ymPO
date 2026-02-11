@@ -183,7 +183,7 @@ export const projects: Project[] = [
     year: '2026',
     client: 'Indie',
     image:
-      'public/1.png',
+      '/1.png',
     videoUrl: 'https://vimeo.com/1163898030?fl=ip&fe=ec',
     aspectRatio: '21:9',
     description:
@@ -214,7 +214,7 @@ export const projects: Project[] = [
     year: '2026',
     client: 'Sony Music',
     image:
-      'public/2.png',
+      '/2.png',
     videoUrl: 'https://vimeo.com/1163898510?fl=ip&fe=ec',
     aspectRatio: '21:9',
     description:
