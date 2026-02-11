@@ -180,14 +180,14 @@ export const projects: Project[] = [
     title: 'Silent Echo',
     category: 'works',
     categoryLabel: '작업물',
-    year: '2023',
+    year: '2026',
     client: 'Indie',
     image:
       'https://images.unsplash.com/photo-1648569825935-1c1d459cdb08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaW5lbWF0aWMlMjBwb3J0cmFpdCUyMG1vb2R5JTIwZmlsbXxlbnwxfHx8fDE3NzA3MjgwNjB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-    videoUrl: 'https://www.youtube.com/watch?v=LXb3EKWsInQ',
+    videoUrl: 'https://vimeo.com/1163898030?fl=ip&fe=ec',
     aspectRatio: '21:9',
     description:
-      '침묵 속에서 전해지는 감정을 담은 단편 영화. 대사 없이 인물의 표정과 풍경만으로 서사를 이끌어갑니다.',
+      '클링ai 및 에프터이펙트를 이용한 올리브영 광고',
     storyboardDesc:
       '감정의 고조에 따라 화면의 대비와 구도를 점진적으로 변화시켰습니다.',
     fonts: 'Garamond Premier Pro',
@@ -211,14 +211,14 @@ export const projects: Project[] = [
     title: 'Urban Rhythm',
     category: 'works',
     categoryLabel: '작업물',
-    year: '2024',
+    year: '2026',
     client: 'Sony Music',
     image:
       'https://images.unsplash.com/photo-1759720107956-1cbad755e952?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx1cmJhbiUyMHN0cmVldCUyMGRhbmNlJTIwbW92ZW1lbnR8ZW58MXx8fHwxNzcwNzI4MDYxfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-    videoUrl: 'https://www.youtube.com/watch?v=5qap5aO4i9A',
-    aspectRatio: '16:9',
+    videoUrl: 'https://vimeo.com/1163898510?fl=ip&fe=ec',
+    aspectRatio: '21:9',
     description:
-      '도시의 소음을 음악으로 재해석한 뮤직비디오. 빠른 컷 편집과 리듬감 있는 카메라 워킹이 특징입니다.',
+      'ai로 재해석한 나만의 템버린즈 무드 광고',
     storyboardDesc:
       '비트(Beat)에 맞춰 화면이 전환되도록 1/60초 단위로 컷을 배분했습니다.',
     fonts: 'Druk Wide, Roboto Mono',
