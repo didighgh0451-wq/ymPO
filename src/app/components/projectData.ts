@@ -118,7 +118,7 @@ export const projects: Project[] = [
     year: '2024',
     client: 'Personal',
     image:
-      'https://images.unsplash.com/photo-1625961332312-8355a9f8c1dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2bG9nJTIwZmlsbWluZyUyMGNhbWVyYSUyMHNldHVwfGVufDF8fHx8MTc3MDcyODM3N3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+      '',
     videoUrl: 'https://youtu.be/FCD0PS-DOA0',
     aspectRatio: '16:9',
     description:
@@ -149,7 +149,7 @@ export const projects: Project[] = [
     year: '2025',
     client: 'Studio',
     image:
-      'https://images.unsplash.com/photo-1764664035176-8e92ff4f128e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5b3V0dWJlJTIwdmlkZW8lMjBzdHVkaW8lMjBjb250ZW50JTIwY3JlYXRpb258ZW58MXx8fHwxNzcwNzI4Mzc1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+      '',
     videoUrl: 'https://youtu.be/n06k5VyeO2Q',
     aspectRatio: '16:9',
     description:
