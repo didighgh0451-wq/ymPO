@@ -87,7 +87,7 @@ export const projects: Project[] = [
     categoryLabel: 'YouTube',
     year: '2024',
     client: 'Lexus',
-    image:
+    image:''
     videoUrl: 'https://youtu.be/IwBghhWtY2I',
     aspectRatio: '16:9',
     description:
