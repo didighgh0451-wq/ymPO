@@ -308,7 +308,7 @@ export const projects: Project[] = [
     year: '2025',
     client: 'Web3 Studio',
     image:
-      '',
+      '/3.png',
     videoUrl: 'https://youtu.be/wkteu44Vt9g',
     aspectRatio: '16:9',
     description:
