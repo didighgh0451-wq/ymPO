@@ -89,7 +89,7 @@ export const projects: Project[] = [
     client: 'Lexus',
     image:
       'https://images.unsplash.com/photo-1585085007341-a5aadf6e48e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0b2t5byUyMG5lb24lMjBuaWdodCUyMGNpdHlzY2FwZXxlbnwxfHx8fDE3NzA3MjgwNjB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-    videoUrl: 'https://www.youtube.com/watch?v=jfKfPfyJRdk',
+    videoUrl: 'https://youtu.be/IwBghhWtY2I',
     aspectRatio: '9:16',
     description:
       '도쿄의 네온사인을 배경으로 한 럭셔리 세단의 야간 주행 영상입니다. 빛의 반사와 도시의 속도감을 표현하는 데 중점을 두었습니다.',
@@ -120,7 +120,7 @@ export const projects: Project[] = [
     client: 'Personal',
     image:
       'https://images.unsplash.com/photo-1625961332312-8355a9f8c1dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2bG9nJTIwZmlsbWluZyUyMGNhbWVyYSUyMHNldHVwfGVufDF8fHx8MTc3MDcyODM3N3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-    videoUrl: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+    videoUrl: 'https://youtu.be/FCD0PS-DOA0',
     aspectRatio: '16:9',
     description:
       '크리에이터의 제작 과정을 담은 비하인드 브이로그. 촬영 장비 셋업부터 편집 워크플로우까지 투명하게 공개합니다.',
@@ -151,7 +151,7 @@ export const projects: Project[] = [
     client: 'Studio',
     image:
       'https://images.unsplash.com/photo-1764664035176-8e92ff4f128e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5b3V0dWJlJTIwdmlkZW8lMjBzdHVkaW8lMjBjb250ZW50JTIwY3JlYXRpb258ZW58MXx8fHwxNzcwNzI4Mzc1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-    videoUrl: 'https://vimeo.com/824804225',
+    videoUrl: 'https://youtu.be/n06k5VyeO2Q',
     aspectRatio: '4:5',
     description:
       '스튜디오 세션 라이브 녹화 콘텐츠. 조명, 사운드, 카메라 앵글의 삼위일체를 통해 현장감을 전달합니다.',
