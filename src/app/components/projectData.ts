@@ -88,7 +88,6 @@ export const projects: Project[] = [
     year: '2024',
     client: 'Lexus',
     image:
-      'https://images.unsplash.com/photo-1585085007341-a5aadf6e48e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0b2t5byUyMG5lb24lMjBuaWdodCUyMGNpdHlzY2FwZXxlbnwxfHx8fDE3NzA3MjgwNjB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
     videoUrl: 'https://youtu.be/IwBghhWtY2I',
     aspectRatio: '16:9',
     description:
