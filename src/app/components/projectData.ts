@@ -245,8 +245,8 @@ export const projects: Project[] = [
     client: 'Freelance',
     image:
       'https://images.unsplash.com/photo-1758553026412-bc1da0ebd366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2aWRlbyUyMGVkaXRpbmclMjBjaW5lbWF0aWMlMjBwcm9kdWN0aW9ufGVufDF8fHx8MTc3MDcyODM3NXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-    videoUrl: 'https://vimeo.com/783455878',
-    aspectRatio: '4:3',
+    videoUrl: 'https://youtu.be/YBdPs9yOyZY',
+    aspectRatio: '16:9',
     description:
       '다양한 프로젝트의 하이라이트를 모은 시네마틱 쇼릴. 컬러 그레이딩과 트랜지션에 중점을 두었습니다.',
     storyboardDesc:
