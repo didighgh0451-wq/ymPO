@@ -277,9 +277,9 @@ export const projects: Project[] = [
     year: '2024',
     client: 'Tech Startup',
     image:
-      'https://images.unsplash.com/photo-1717583191083-cd82ed7f217e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkaWdpdGFsJTIwYXZhdGFyJTIwdmlydHVhbCUyMGlkZW50aXR5fGVufDF8fHx8MTc3MDcyODM3OXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-    videoUrl: 'https://www.youtube.com/watch?v=_cMxraX_5RE',
-    aspectRatio: '1:1',
+      '',
+    videoUrl: 'https://youtu.be/oa6YflMpFb8',
+    aspectRatio: '16:9',
     description:
       '디지털 아이덴티티(DID)를 기반으로 한 가상 페르소나 디자인. 블록체인 인증 기반의 개인 브랜딩 시스템입니다.',
     storyboardDesc:
@@ -308,8 +308,8 @@ export const projects: Project[] = [
     year: '2025',
     client: 'Web3 Studio',
     image:
-      'https://images.unsplash.com/photo-1765218185091-ecbaa6fb99b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkaWdpdGFsJTIwaWRlbnRpdHklMjBkZXNpZ24lMjBhYnN0cmFjdHxlbnwxfHx8fDE3NzA3MjgzNzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-    videoUrl: 'https://www.youtube.com/watch?v=JGwWNGJdvx8',
+      '',
+    videoUrl: 'https://youtu.be/wkteu44Vt9g',
     aspectRatio: '16:9',
     description:
       '분산형 신원증명 시스템의 비주얼 아이덴티티 디자인. 신뢰와 투명성을 시각적으로 구현했습니다.',
@@ -339,9 +339,9 @@ export const projects: Project[] = [
     year: '2024',
     client: 'DAO Collective',
     image:
-      'https://images.unsplash.com/photo-1762365189058-7be5b07e038b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxicmFuZGluZyUyMGlkZW50aXR5JTIwbW9ja3VwJTIwZGVzaWdufGVufDF8fHx8MTc3MDcyODM3N3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-    videoUrl: 'https://vimeo.com/517301676',
-    aspectRatio: '4:5',
+      '',
+    videoUrl: 'https://youtu.be/uOjYypJTvXg',
+    aspectRatio: '16:9',
     description:
       'DAO 기반 커뮤니티의 브랜드 프로토콜 디자인. 탈중앙화 가치를 반영한 유기적 비주얼 시스템입니다.',
     storyboardDesc:
@@ -362,6 +362,105 @@ export const projects: Project[] = [
       titleSize: 'clamp(2rem, 5vw, 4.5rem)',
     },
   },
+
+    {
+    id: 10,
+    title: 'Brand Protocol',
+    category: 'did',
+    categoryLabel: 'DID',
+    year: '2024',
+    client: 'DAO Collective',
+    image:
+      '',
+    videoUrl: 'https://youtu.be/no26OZL6c-A',
+    aspectRatio: '16:9',
+    description:
+      'DAO 기반 커뮤니티의 브랜드 프로토콜 디자인. 탈중앙화 가치를 반영한 유기적 비주얼 시스템입니다.',
+    storyboardDesc:
+      '브랜드 가이드라인의 각 섹션을 인터랙티브 프레젠테이션으로 제작했습니다.',
+    fonts: 'General Sans, Fira Code',
+    role: 'BX Design · Motion',
+    tools: 'After Effects · Figma',
+    process:
+      '커뮤니티 투표를 통해 선정된 디자인 방향성을 기반으로 반복적 이터레이션 프로세스를 진행했습니다.',
+    storyboardImages: Array(12).fill(null).map((_, i) => `https://picsum.photos/seed/${i + 150}/800/450`),
+    style: {
+      accentColor: '#4ecdc4',
+      titleFont: "'Space Grotesk', sans-serif",
+      titleWeight: 400,
+      titleItalic: false,
+      titleUppercase: true,
+      titleLetterSpacing: '0.2em',
+      titleSize: 'clamp(2rem, 5vw, 4.5rem)',
+    },
+  },
+      {
+    id: 12,
+    title: 'Brand Protocol',
+    category: 'did',
+    categoryLabel: 'DID',
+    year: '2024',
+    client: 'DAO Collective',
+    image:
+      '',
+    videoUrl: 'https://youtu.be/rLOnoOTUeK0',
+    aspectRatio: '16:9',
+    description:
+      'DAO 기반 커뮤니티의 브랜드 프로토콜 디자인. 탈중앙화 가치를 반영한 유기적 비주얼 시스템입니다.',
+    storyboardDesc:
+      '브랜드 가이드라인의 각 섹션을 인터랙티브 프레젠테이션으로 제작했습니다.',
+    fonts: 'General Sans, Fira Code',
+    role: 'BX Design · Motion',
+    tools: 'After Effects · Figma',
+    process:
+      '커뮤니티 투표를 통해 선정된 디자인 방향성을 기반으로 반복적 이터레이션 프로세스를 진행했습니다.',
+    storyboardImages: Array(12).fill(null).map((_, i) => `https://picsum.photos/seed/${i + 150}/800/450`),
+    style: {
+      accentColor: '#4ecdc4',
+      titleFont: "'Space Grotesk', sans-serif",
+      titleWeight: 400,
+      titleItalic: false,
+      titleUppercase: true,
+      titleLetterSpacing: '0.2em',
+      titleSize: 'clamp(2rem, 5vw, 4.5rem)',
+    },
+  },
+        {
+    id: 13,
+    title: 'Brand Protocol',
+    category: 'did',
+    categoryLabel: 'DID',
+    year: '2024',
+    client: 'DAO Collective',
+    image:
+      '',
+    videoUrl: 'https://youtu.be/BY9_NdE6ipE',
+    aspectRatio: '16:9',
+    description:
+      'DAO 기반 커뮤니티의 브랜드 프로토콜 디자인. 탈중앙화 가치를 반영한 유기적 비주얼 시스템입니다.',
+    storyboardDesc:
+      '브랜드 가이드라인의 각 섹션을 인터랙티브 프레젠테이션으로 제작했습니다.',
+    fonts: 'General Sans, Fira Code',
+    role: 'BX Design · Motion',
+    tools: 'After Effects · Figma',
+    process:
+      '커뮤니티 투표를 통해 선정된 디자인 방향성을 기반으로 반복적 이터레이션 프로세스를 진행했습니다.',
+    storyboardImages: Array(12).fill(null).map((_, i) => `https://picsum.photos/seed/${i + 150}/800/450`),
+    style: {
+      accentColor: '#4ecdc4',
+      titleFont: "'Space Grotesk', sans-serif",
+      titleWeight: 400,
+      titleItalic: false,
+      titleUppercase: true,
+      titleLetterSpacing: '0.2em',
+      titleSize: 'clamp(2rem, 5vw, 4.5rem)',
+    },
+  },
+
+
+  
+
+  
 
   // --- Character Design ---
   {
